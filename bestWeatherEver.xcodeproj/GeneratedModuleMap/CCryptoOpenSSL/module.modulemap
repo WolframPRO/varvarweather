@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/wolfram/Documents/Вышка/Lanin/VarvarServer!!!/bestWeatherEver/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
